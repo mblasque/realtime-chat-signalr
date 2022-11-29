@@ -1,4 +1,4 @@
-# Realtime Chat using SignalR
+# .NET + React.Js Realtime Chat with SignalR
 
 ## Prerequisites
 
