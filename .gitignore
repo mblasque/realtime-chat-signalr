@@ -1,0 +1,7 @@
+chat-api/ChatAPI/bin
+chat-api/ChatAPI/obj
+chat-api/.vs
+
+chat-client/dist
+chat-client/node-modules
+chat-client/package-lock.json
